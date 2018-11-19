@@ -1,0 +1,22 @@
+{
+  "name": "tic_tac_toe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe game built in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericamendez/Tic-Tac-Toe.git"
+  },
+  "author": "big kiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericamendez/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/ericamendez/Tic-Tac-Toe#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
